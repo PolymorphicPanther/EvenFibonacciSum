@@ -1,4 +1,4 @@
-# EvenFibonacciSum
+# FibonacciSumChallenge
 
 A program that calculates the sum of the even Fibonacci numbers strictly below 4 million.   
 
